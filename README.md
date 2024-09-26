@@ -3,7 +3,7 @@ all is done
 react ass
 frontend
 backend
-6
+in node
 7
 7
 90
